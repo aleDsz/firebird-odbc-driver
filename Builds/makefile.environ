@@ -57,6 +57,7 @@ $(warning FBLIBDIR is $(FBLIBDIR))
 endif
 
 #
+CUSTOM_HEADERS_DIR 		= ../../Headers
 ISCDBCDIR 		= ../../IscDbc
 ODBCJDBCDIR 		= ../..
 ODBCJDBCSETUPDIR 	= ../../OdbcJdbcSetup
