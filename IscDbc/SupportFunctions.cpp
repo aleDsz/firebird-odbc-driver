@@ -31,6 +31,7 @@
 #include <sqlext.h>
 #include "Mlist.h"
 #include "SupportFunctions.h"
+#include <cstdint>
 
 namespace IscDbcLibrary {
 

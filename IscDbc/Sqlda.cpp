@@ -57,6 +57,7 @@
 #include "IscDbc.h"
 #include "Sqlda.h"
 #include "SQLError.h"
+#include <cstdint>
 #include "Value.h"
 #include "IscConnection.h"
 #include "IscStatement.h"

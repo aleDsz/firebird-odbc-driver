@@ -33,6 +33,7 @@
 #include "Types.h"
 #include "IscStatement.h"
 #include "Value.h"
+#include <cstdint>
 
 namespace IscDbcLibrary {
 
