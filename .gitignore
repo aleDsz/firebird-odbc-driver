@@ -7,3 +7,7 @@ Install/Win32/install_image/
 *.chm
 build_*.log
 OdbcJdbcSetup_*.iss
+*.o
+*.a
+*.so
+.ccls-cache
